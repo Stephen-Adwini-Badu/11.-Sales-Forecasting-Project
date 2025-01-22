@@ -1,7 +1,7 @@
 # Sales Forecasting Notebook
 
 ## Overview
-This notebook focuses on developing and testing machine learning models to predict sales figures based on historical data. The project demonstrates the entire data science pipeline, including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+This project focuses on developing and testing machine learning models to predict sales figures based on historical data. The project demonstrates the entire data science pipeline, including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ---
 
