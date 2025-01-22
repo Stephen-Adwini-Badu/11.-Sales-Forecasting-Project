@@ -40,9 +40,17 @@ The methodology follows these structured steps:
      - XGBoost Regressor
    - Evaluate the models using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Mean Absolute Percentage Error (MAPE), and R².
 
+![image](https://github.com/user-attachments/assets/7ff7f0c2-5a6b-49b1-9e75-5715b99dedd7)
+
+
 7. **Model Evaluation**  
    - Visualize regression plots for predicted vs. actual values.
+
+![1 2](https://github.com/user-attachments/assets/5a3f1c16-0cf6-4fbf-b718-e0198b3cca80)
+
    - Analyze feature importance for each model.
+
+![1 3](https://github.com/user-attachments/assets/48751ce5-fb4d-42f7-b4f2-992ff92bfbb0)
 
 ---
 
