@@ -42,33 +42,33 @@ The methodology follows these structured steps:
 
 <table align="center">
 <tr>
-  <th>MODEL</th>
-  <th>MAE</th>
-  <th>MSE</th>
-  <th>MAPE</th>
-  <th>R²</th>
-</tr>
-<tr>
-  <td>Random Forest Regressor</td>
-  <td align="center">8.356004</td>
-  <td align="center">254.881242</td>
-  <td align="center">0.052009</td>
-  <td align="center">0.992415</td>
-</tr>
-<tr>
-  <td>Gradient Boosting Regressor</td>
-  <td align="center">18.932657</td>
-  <td align="center">1028.543518</td>
-  <td align="center">3.451058</td>
-  <td align="center">0.966299</td>
-</tr>
-<tr>
-  <td>X Gradient Boosting Regressor</td>
-  <td align="center">7.926935</td>
-  <td align="center">197.354002</td>
-  <td align="center">0.067435</td>
-  <td align="center">0.994139</td>
-</tr>
+   <th>MODEL</th>
+   <th>MAE</th>
+   <th>MSE</th>
+   <th>MAPE</th>
+   <th>R²</th>
+ </tr>
+ <tr>
+   <td>Random Forest Regressor</td>
+   <td align="center">8.356004</td>
+   <td align="center">254.881242</td>
+   <td align="center">0.052009</td>
+   <td align="center">0.992415</td>
+ </tr>
+ <tr>
+   <td>Gradient Boosting Regressor</td>
+   <td align="center">18.932657</td>
+   <td align="center">1028.543518</td>
+   <td align="center">3.451058</td>
+   <td align="center">0.966299</td>
+ </tr>
+ <tr>
+   <td>X Gradient Boosting Regressor</td>
+   <td align="center">7.926935</td>
+   <td align="center">197.354002</td>
+   <td align="center">0.067435</td>
+   <td align="center">0.994139</td>
+ </tr>
 </table>
 
 
