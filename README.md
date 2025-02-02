@@ -81,6 +81,15 @@ The methodology follows these structured steps:
 
 ![1 3](https://github.com/user-attachments/assets/48751ce5-fb4d-42f7-b4f2-992ff92bfbb0)
 
+  - **Further Model Evaluation (Comparing Original to Predicted data)**
+     - Model Accuracy: Assessing how closely the predictions match the actual values.
+     - Error Analysis: Identifying patterns in the prediction errors to improve the model.
+     - Bias Detection: Detecting systematic biases that may affect the predictions.
+     - Trend Identification: Spoting underlying trends and patterns in the data.
+     - Model Generalization: Evaluating how well the model performs on unseen data.
+
+![11](https://github.com/user-attachments/assets/53c4f244-e042-49c4-9822-a51de4f74ca2)
+
 ---
 
 ## Key Code Features
